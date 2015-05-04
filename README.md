@@ -4,7 +4,7 @@ This repo is a tool for my Treehouse course on Gulp.
 This code was generated with the [generator-gulp-angular](https://github.com/Swiip/generator-gulp-angular) Yeoman Generator.
 
 ## Getting Started
-Since the site was already scaffolded with Yeoman, you actually don't need to have it installed.  
+Since the site was already scaffolded with Yeoman, you actually don't need to have Yeoman installed.  
 But, you should have gulp installed globally:
 ```
 npm install -g gulp
