@@ -1,0 +1,11 @@
+# Yeoman defaults
+node_modules/
+bower_components/
+.sass-cache/
+.tmp/
+dist/
+
+# Others
+production/
+
+
