@@ -16,10 +16,11 @@ Clone this repo:
 ```
 git clone <this-repo>
 ```
-Install the project's node modules:
+Install the project's node modules and bower components:
 ```
 cd <this-repo>
 npm install
+bower install
 ```
 
 Now you can run gulp commands!
