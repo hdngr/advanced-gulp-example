@@ -6,7 +6,7 @@ This code was generated with the [generator-gulp-angular](https://github.com/Swi
 ## Getting Started
 The site was already scaffolded with Yeoman, but you will need bower, so install yeoman globally:
 ```
-npm install -g yeoman
+npm install -g yo
 ```
 You should have gulp installed globally as well:
 ```
